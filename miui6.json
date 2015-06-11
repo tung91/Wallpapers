@@ -1,0 +1,16 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Artist",
+			"url": "http://i.imgur.com/8LRQ9aP.png",
+			"name": "Blurry"
+		},
+		{
+			"author": "Artist",
+			"url": "http://i.imgur.com/5T9TYAR.png",
+			"name": "Orange"
+		}
+		
+	]
+}
