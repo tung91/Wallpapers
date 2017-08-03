@@ -2,7 +2,7 @@
     "Categories": 
         [
             {
-                "name": "People"
+                "name": "MIUI series"
             },
             {
                 "name": "Architecture"
@@ -21,49 +21,49 @@
 	"Wallpapers":
         [
 			{
-				"author": "Sweet Ice Cream Photography",
-				"url": "https://unsplash.it/5472/3648?image=1083",
-				"thumbUrl": "https://unsplash.it/200?image=1083",
+				"author": "XiaoMi",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9dWJ0MHh1TF9fWUE",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9dWJ0MHh1TF9fWUE",
 				"name": "Ceningan island, Indonesia",
                 "category": "Architecture"
 			},
             {
-				"author": "Samuel Zeller",
-				"url": "https://unsplash.it/4835/3223?image=1076",
-				"thumbUrl": "https://unsplash.it/200?image=1076",
+				"author": "XiaoMi",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9YklpblVMWWtTQTA",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9YklpblVMWWtTQTA",
 				"name": "London",
                 "category": "architecture"
 			},
             {
-				"author": "Kevin Young",
+				"author": "XiaoMi",
 				"url": "https://unsplash.it/4835/3223?image=1067",
 				"thumbUrl": "https://unsplash.it/200?image=1067",
 				"name": "City 1067",
                 "category": "architecture,city"
 			},
             {
-				"author": "Aleksandra Boguslawska",
+				"author": "XiaoMi",
 				"url": "https://unsplash.it/4835/3223?image=1045",
 				"thumbUrl": "https://unsplash.it/200?image=1045",
 				"name": "Mountain 1045",
                 "category": "Architecture"
 			},
             {
-				"author": "Steve Carter",
+				"author": "XiaoMi",
 				"url": "https://unsplash.it/4835/3223?image=1044",
 				"thumbUrl": "https://unsplash.it/200?image=1044",
 				"name": "Crescent City, United States",
                 "category": "Architecture"
 			},
             {
-				"author": "Christian Joudrey",
+				"author": "XiaoMi",
 				"url": "https://unsplash.it/4835/3223?image=1043",
 				"thumbUrl": "https://unsplash.it/200?image=1043",
 				"name": "Yosemite National Park, United States",
                 "category": "Architecture"
 			},
             {
-				"author": "Eric Huang",
+				"author": "XiaoMi",
 				"url": "https://unsplash.it/4835/3223?image=993",
 				"thumbUrl": "https://unsplash.it/200?image=993",
 				"name": "Taipei City, Taiwan",
