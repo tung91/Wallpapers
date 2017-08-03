@@ -5,16 +5,10 @@
                 "name": "MIUI series"
             },
             {
-                "name": "Architecture"
+                "name": "Plants"
             },
             {
-                "name": "City"
-            },
-            {
-                "name": "Mountain"
-            },
-            {
-                "name": "Forest"
+                "name": "Landscape"
             }
         ],
     
@@ -67,7 +61,7 @@
 				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9ZzJlTDBnaUM2VjQ",
 				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9ZzJlTDBnaUM2VjQ",
 				"name": "Bamboo forest",
-                "category": "MIUI series"
+                "category": "MIUI series,Plants"
 			},
 			{
 				"author": "XiaoMi",
@@ -90,6 +84,58 @@
 				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9Nm1WLUpRU21WQlU",
 				"name": "Gradient",
                 "category": "MIUI series"
-			}
+			},
+			
+			
+			
+			{
+				"author": "Internet",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9N1pDX3I3bnRWc0k",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9N1pDX3I3bnRWc0k",
+				"name": "Grass",
+                "category": "Plants"
+			},
+			{
+				"author": "Internet",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9UGhfN0lfbEZWZTQ",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9UGhfN0lfbEZWZTQ",
+				"name": "Rose",
+                "category": "Plants"
+			},
+			{
+				"author": "Internet",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9aHBiRGRxLWEybzA",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9aHBiRGRxLWEybzA",
+				"name": "rosemary",
+                "category": "Plants"
+			},
+			{
+				"author": "Internet",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9X25Jekc1eHZ6bTA",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9X25Jekc1eHZ6bTA",
+				"name": "Sammalta",
+                "category": "Plants"
+			},
+			
+			
+			{
+				"author": "Internet",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9ZjA2cGpSZmxOS0k",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9ZjA2cGpSZmxOS0k",
+				"name": "Mountain",
+                "category": "Landscape"
+			},{
+				"author": "Internet",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9X25Jekc1eHZ6bTA",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9X25Jekc1eHZ6bTA",
+				"name": "Sammalta",
+                "category": "Plants"
+			},{
+				"author": "Internet",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9X25Jekc1eHZ6bTA",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9X25Jekc1eHZ6bTA",
+				"name": "Sammalta",
+                "category": "Plants"
+			},
 		]
 }
