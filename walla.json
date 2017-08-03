@@ -24,50 +24,72 @@
 				"author": "XiaoMi",
 				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9dWJ0MHh1TF9fWUE",
 				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9dWJ0MHh1TF9fWUE",
-				"name": "Ceningan island, Indonesia",
-                "category": "Architecture"
+				"name": "GRASS",
+                "category": "MIUI series"
 			},
             {
 				"author": "XiaoMi",
 				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9YklpblVMWWtTQTA",
 				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9YklpblVMWWtTQTA",
-				"name": "London",
-                "category": "architecture"
+				"name": "Lake",
+                "category": "MIUI series"
 			},
             {
 				"author": "XiaoMi",
-				"url": "https://unsplash.it/4835/3223?image=1067",
-				"thumbUrl": "https://unsplash.it/200?image=1067",
-				"name": "City 1067",
-                "category": "architecture,city"
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9SzgwX1pGR3NGMzA",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9SzgwX1pGR3NGMzA",
+				"name": "abstract",
+                "category": "MIUI series"
 			},
             {
 				"author": "XiaoMi",
-				"url": "https://unsplash.it/4835/3223?image=1045",
-				"thumbUrl": "https://unsplash.it/200?image=1045",
-				"name": "Mountain 1045",
-                "category": "Architecture"
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9ak9QUmt6M3lzMTQ",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9ak9QUmt6M3lzMTQ",
+				"name": "grass2",
+                "category": "MIUI series"
 			},
             {
 				"author": "XiaoMi",
-				"url": "https://unsplash.it/4835/3223?image=1044",
-				"thumbUrl": "https://unsplash.it/200?image=1044",
-				"name": "Crescent City, United States",
-                "category": "Architecture"
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9UlZ1dVR1MnVpTkk",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9UlZ1dVR1MnVpTkk",
+				"name": "sea",
+                "category": "MIUI series"
 			},
             {
 				"author": "XiaoMi",
-				"url": "https://unsplash.it/4835/3223?image=1043",
-				"thumbUrl": "https://unsplash.it/200?image=1043",
-				"name": "Yosemite National Park, United States",
-                "category": "Architecture"
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9bVhUTFhlNFNWTWc",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9bVhUTFhlNFNWTWc",
+				"name": "v9",
+                "category": "MIUI series"
 			},
+			{
+				"author": "XiaoMi",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9ZzJlTDBnaUM2VjQ",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9ZzJlTDBnaUM2VjQ",
+				"name": "Bamboo forest",
+                "category": "MIUI series"
+			},
+			{
+				"author": "XiaoMi",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9MmRyRmNueWEwUEE",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9MmRyRmNueWEwUEE",
+				"name": "Starry",
+                "category": "MIUI series"
+			},
+			{
+				"author": "XiaoMi",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9T3VNVmhwZ0ExVVE",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9T3VNVmhwZ0ExVVE",
+				"name": "Sky",
+                "category": "MIUI series"
+			},
+			
             {
 				"author": "XiaoMi",
-				"url": "https://unsplash.it/4835/3223?image=993",
-				"thumbUrl": "https://unsplash.it/200?image=993",
-				"name": "Taipei City, Taiwan",
-                "category": "Architecture"
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9Nm1WLUpRU21WQlU",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9Nm1WLUpRU21WQlU",
+				"name": "Gradient",
+                "category": "MIUI series"
 			}
 		]
 }
