@@ -124,6 +124,20 @@
 				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9ZjA2cGpSZmxOS0k",
 				"name": "Mountain",
                 "category": "Landscape"
+			},
+			{
+				"author": "Internet",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9X25Jekc1eHZ6bTA",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9X25Jekc1eHZ6bTA",
+				"name": "Sammalta",
+                "category": "Plants"
+			},
+			{
+				"author": "Internet",
+				"url": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9X25Jekc1eHZ6bTA",
+				"thumbUrl": "https://drive.google.com/uc?export=download&id=0BwbE2QkzUAX9X25Jekc1eHZ6bTA",
+				"name": "Sammalta",
+                "category": "Plants"
 			}
 		]
 }
